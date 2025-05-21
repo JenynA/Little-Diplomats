@@ -180,7 +180,7 @@
 
   <section class="contact">
     <h2>Get in Touch</h2>
-    <p>Email us at <a href="mailto:hello@littlediplomats.com">hello@littlediplomats.com</a> or call +254 7XX XXX XXX to learn more or enroll your child.</p>
+    <p>Email us at <a href="mailto:hello@littlediplomats.com">hello@littlediplomats.com</a> or call +254 105 006 152 to learn more or enroll your child.</p>
   </section>
 
   <section class="social">
